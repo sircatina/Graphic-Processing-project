@@ -1,0 +1,192 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture/desert.jpg
+
+newmtl Material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd casa/casa.jpg
+
+newmtl Material.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd lampa/lamp.jpg
+
+newmtl Material.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd lampa/lamp.jpg
+
+newmtl Material.059
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd gard/wood.jpg
+
+newmtl Material.060
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture/road.jpg
+
+newmtl Material.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd lampa/led.jpg
+
+newmtl blinn1SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.390000 0.390000 0.390000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lampa/lamp.jpg
+
+newmtl mat_0-ConcreteWall.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poarta/ConcreteWall.jpg
+
+newmtl mat_0-Donkey.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd magar/Donkey.jpg
+
+newmtl mat_0-POLICECA.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd car/POLICECA.jpg
+
+newmtl mat_0-WindmillBackdrop_01_D.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd moara/WindmillBackdrop_01_D.jpg
+
+newmtl mat_0-ext_house01_col.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa2/ext_house01_col.jpg
+
+newmtl mat_0-house_tex.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa3/house_tex.jpg
+
+newmtl mat_0-lantern_1024_c.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd turn/lantern_1024_c.jpg
+
+newmtl mat_1-HORBODY.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd cal/HORBODY.jpg
+
+newmtl mat_1-default-grey.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd car/default-grey.jpg
+
+newmtl surfaceShader1SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd lampa/led.jpg
+
+newmtl surfaceShader1SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd lampa/led.jpg
